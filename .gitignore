@@ -1,0 +1,4 @@
+images/php/app/vendor
+
+# IntelliJ project files
+.idea
