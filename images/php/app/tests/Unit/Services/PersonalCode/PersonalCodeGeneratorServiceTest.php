@@ -110,7 +110,7 @@ class PersonalCodeGeneratorServiceTest extends TestCase
                 '85002020509',
                 9
             ],
-            'Invalid sex' => [
+            'Invalid date' => [
                 Carbon::createFromDate(2250, 2, 2),
                 false,
                 50,
